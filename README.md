@@ -1,2 +1,2 @@
 # hello-world
-Carbon-based organic lifeform tesing GitHub.
+Carbon-based organic lifeform testing GitHub.
